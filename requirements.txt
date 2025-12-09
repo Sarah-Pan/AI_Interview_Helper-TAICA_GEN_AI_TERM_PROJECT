@@ -1,0 +1,6 @@
+streamlit>=1.39.0
+groq
+PyPDF2
+dotenv
+gTTS
+edge-tts

@@ -1,0 +1,18 @@
+# --- 安全性 (絕對不能上傳) ---
+.env
+.streamlit/secrets.toml
+
+# --- Python 編譯與暫存檔 ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- 虛擬環境 (如果有的話) ---
+venv/
+.venv/
+env/
+
+# --- OS 系統檔 ---
+.DS_Store
+Thumbs.db
